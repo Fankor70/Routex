@@ -510,8 +510,6 @@ body {
 .visa-cart {
 	border: 1px solid;
 	border-color: #E3DBD8;
-	max-width: 630px;
-	max-height: 300px;
 	border-radius: 10px;
 	padding: 20px;
 }
